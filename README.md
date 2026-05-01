@@ -2,7 +2,7 @@
 
 Simple full-stack CRUD app using React, Express, and Airtable as the database.
 
-![alt text](image.png)
+![alt text](preview.png)
 
 ## Features
 
