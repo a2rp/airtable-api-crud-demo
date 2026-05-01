@@ -2,6 +2,8 @@
 
 Simple full-stack CRUD app using React, Express, and Airtable as the database.
 
+![alt text](image.png)
+
 ## Features
 
 - Create, Read, Update, Delete records
